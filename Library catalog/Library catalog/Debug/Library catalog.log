@@ -1,0 +1,13 @@
+﻿  Book.cpp
+  Item.cpp
+  Journal.cpp
+  Magazine.cpp
+  main.cpp
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(363,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(379,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(395,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(442,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\fardu\Desktop\Library catalog\Library catalog\main.cpp(458,20): warning C4018: '<': signed/unsigned mismatch
+  Library catalog.vcxproj -> C:\Users\fardu\Desktop\Library catalog\Debug\Library catalog.exe
